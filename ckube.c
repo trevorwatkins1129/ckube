@@ -4,6 +4,7 @@
  * Copyright (c) 2020 Pablo Peñarroja
  */
 
+#define _BSD_SOURCE
 #define _XOPEN_SOURCE_EXTENDED
 
 #include <ncurses.h>
